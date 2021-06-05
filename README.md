@@ -77,6 +77,13 @@ _* "Kuya" means "older brother" in Filipino, often used as a term of endearment.
   <a href="https://kuya.dev" target="_blank">
     <img
          align="center"
+         src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
+         alt="ExpressJS"
+    />
+  </a>
+  <a href="https://kuya.dev" target="_blank">
+    <img
+         align="center"
          src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
          alt="TypeScript"
     />
