@@ -1,16 +1,198 @@
-### Hi there 👋
+<a href="https://kuya.dev" target="_blank"><img align="center" src="https://kuya.dev/logo-light-mode.png" /></a>
 
-<!--
-**RemLampa/RemLampa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Rem Lampa is Kuya* Dev
 
-Here are some ideas to get you started:
+Hello, I'm Rem Lampa! I am a **[podcaster](https://anchor.fm/remlampa)**, web developer, speaker, and tech community leader.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Formerly an electrical engineer, I am currently a Senior JS Engineer at [Prosple](https://prosple.com/our-team/), specialized in ReactJS and ExpressJS.
+
+I am also a co-founder and community manager of [freeCodeCamp.Manila](https://www.facebook.com/groups/free.code.camp.manila), and part of the core team of [ReactJS Philippines](https://www.facebook.com/groups/reactjsphilippines).
+
+_* "Kuya" means "older brother" in Filipino, often used as a term of endearment._
+
+## Social
+
+<div align="center">
+  <a href="https://www.facebook.com/Rem.Lampa" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="Facebook"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/remlampa" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="LinkedIn"
+    />
+  </a>
+  <a href="https://twitter.com/RemLampa" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="Twitter"
+    />
+  </a>
+  <a href="https://www.instagram.com/RemLampa" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+         alt="Instagram"
+    />
+  </a>
+  <a href="https://stackoverflow.com/users/story/6625014" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
+         alt="StackOverflow"
+    />
+  </a>
+  <a href="https://hashnode.com/@RemLampa" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"
+         alt="Hashnode"
+    />
+  </a>
+  <a href="https://www.youtube.com/c/RemLampa" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+         alt="Youtube"
+    />
+  </a>
+</div>
+
+## Tech Stack
+
+<div align="center">
+  <a href="https://kuya.dev" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+         alt="React"
+    />
+  </a>
+  <a href="https://kuya.dev" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+         alt="TypeScript"
+    />
+  </a>
+  <a href="https://kuya.dev" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+         alt="JavaScript"
+    />
+  </a>
+  <a href="https://kuya.dev" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white"
+         alt="NextJS"
+    />
+  </a>
+  <a href="https://kuya.dev" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white"
+         alt="Gatsby"
+    />
+  </a>
+  <a href="https://kuya.dev" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"
+         alt="NodeJS"
+    />
+  </a>
+  <a href="https://kuya.dev" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+         alt="Python"
+    />
+  </a>
+  <a href="https://kuya.dev" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"
+         alt="Django"
+    />
+  </a>
+  <a href="https://kuya.dev" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"
+         alt="GraphQL"
+    />
+  </a>
+  <a href="https://kuya.dev" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
+         alt="Docker"
+    />
+  </a>
+</div>
+
+## Development Environment
+
+<div align="center">
+  <a href="https://kuya.dev" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+         alt="Linux"
+    />
+  </a>
+  <a href="https://kuya.dev" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+         alt="Ubuntu"
+    />
+  </a>
+  <a href="https://kuya.dev" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"
+         alt="Vim"
+    />
+  </a>
+  <a href="https://kuya.dev" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
+         alt="Rem's Most Used Languages"
+    />
+  </a>
+</div>
+
+## GitHub Stats
+<div align="center">
+  <a href="https://kuya.dev" target="_blank">
+    <img
+         align="center"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemLampa&theme=dark&hide=css,html,vim%20script&langs_count=7"
+         alt="Rem's Most Used Languages"
+    />
+  </a>
+  <a href="https://kuya.dev" target="_blank">
+    <img
+         align="center"
+         src="https://github-readme-stats.vercel.app/api?username=RemLampa&theme=dark&show_icons=true&count_private=true"
+         alt="Rem's GitHub Stats"
+    />
+  </a>
+  <a href="https://kuya.dev" target="_blank">
+    <img
+         align="center"
+         src="https://github-readme-stats.vercel.app/api/wakatime?username=RemLampa&theme=dark"
+         alt="Rem's Coding Time"
+    />
+  </a>
+</div>
