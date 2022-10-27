@@ -2,9 +2,9 @@
 
 ## Rem Lampa is Kuya* Dev
 
-Hello, I'm Rem Lampa! I am a **[podcaster](https://anchor.fm/remlampa)**, web developer, speaker, and tech community leader.
+Hello, I'm Rem Lampa! I am a **[podcaster](https://follow.kuya.dev)**, web developer, speaker, and tech community leader.
 
-Formerly an electrical engineer, I am currently a Senior JS Engineer at [Prosple](https://prosple.com/our-team/), specialized in ReactJS and ExpressJS.
+Formerly an electrical engineer, I am currently a Lead JavaScript Engineer at [Prosple](https://prosple.com/our-team/), specialized in ReactJS, ExpressJS, GraphQL, and TypeScript.
 
 I am also a co-founder and community manager of [freeCodeCamp.Manila](https://www.facebook.com/groups/free.code.camp.manila), and part of the core team of [ReactJS Philippines](https://www.facebook.com/groups/reactjsphilippines). Recently, I co-founded [Tech Career Shifters Philippines](https://www.facebook.com/groups/techcareershiftersph), a community specifically devoted to all Filipinos who are aspiring to land roles in the tech industry, especially self-learned hopefuls.
 
@@ -13,7 +13,7 @@ _* "Kuya" means "older brother" in Filipino, often used as a term of endearment.
 ## Social
 
 <div align="center">
-  <a href="https://www.facebook.com/Rem.Lampa" target="_blank">
+  <a href="https://www.facebook.com/RemLampa" target="_blank">
     <img
          align="center"
          src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
@@ -55,7 +55,7 @@ _* "Kuya" means "older brother" in Filipino, often used as a term of endearment.
          alt="Hashnode"
     />
   </a>
-  <a href="https://www.youtube.com/c/RemLampa" target="_blank">
+  <a href="https://www.youtube.com/@KuyaDev" target="_blank">
     <img
          align="center"
          src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
