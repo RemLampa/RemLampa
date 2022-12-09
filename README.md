@@ -1,4 +1,9 @@
-<a href="https://kuya.dev" target="_blank"><img align="center" src="https://kuya.dev/logo-light-mode.png" /></a>
+<a href="https://kuya.dev" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://kuya.dev/logo-dark-mode.png">
+    <img align="center" alt="Kuya Dev Logo" src="https://kuya.dev/logo-light-mode.png">
+  </picture>
+</a>
 
 ## Rem Lampa is Kuya* Dev
 
