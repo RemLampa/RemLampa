@@ -214,11 +214,11 @@ _* "Kuya" means "older brother" in Filipino, often used as a term of endearment.
     <picture>
       <source
          media="(prefers-color-scheme: dark)"
-         srcset="https://github-readme-stats.vercel.app/api?username=RemLampa&theme=github_dark&show_icons=true&count_private=true"
+         srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RemLampa&theme=github_dark"
       >
       <img
          align="center"
-         src="https://github-readme-stats.vercel.app/api?username=RemLampa&theme=default&show_icons=true&count_private=true"
+         src="https://github-readme-stats.vercel.app/api/wakatime?username=RemLampa&theme=default"
          alt="Rem's Coding Time"
       />
     </picture>
