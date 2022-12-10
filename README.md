@@ -187,24 +187,40 @@ _* "Kuya" means "older brother" in Filipino, often used as a term of endearment.
 ## GitHub Stats
 <div align="center">
   <a href="https://kuya.dev" target="_blank">
-    <img
+    <picture>
+      <source
+         media="(prefers-color-scheme: dark)"
+         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RemLampa&theme=github_dark&hide=css,html,vim%20script&langs_count=7"
+      >
+      <img
          align="center"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemLampa&theme=dark&hide=css,html,vim%20script&langs_count=7"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemLampa&theme=default&hide=css,html,vim%20script&langs_count=7"
          alt="Rem's Most Used Languages"
-    />
+      />
+    </picture>
   </a>
-  <a href="https://kuya.dev" target="_blank">
-    <img
+      <picture>
+      <source
+         media="(prefers-color-scheme: dark)"
+         srcset="https://github-readme-stats.vercel.app/api?username=RemLampa&theme=github_dark&show_icons=true&count_private=true""
+      >
+      <img
          align="center"
-         src="https://github-readme-stats.vercel.app/api?username=RemLampa&theme=dark&show_icons=true&count_private=true"
+         src="https://github-readme-stats.vercel.app/api?username=RemLampa&theme=default&show_icons=true&count_private=true""
          alt="Rem's GitHub Stats"
-    />
+      />
+    </picture>
   </a>
-  <a href="https://kuya.dev" target="_blank">
-    <img
+    <picture>
+      <source
+         media="(prefers-color-scheme: dark)"
+         srcset="https://github-readme-stats.vercel.app/api?username=RemLampa&theme=github_dark&show_icons=true&count_private=true"
+      >
+      <img
          align="center"
-         src="https://github-readme-stats.vercel.app/api/wakatime?username=RemLampa&theme=dark"
+         src="https://github-readme-stats.vercel.app/api?username=RemLampa&theme=default&show_icons=true&count_private=true"
          alt="Rem's Coding Time"
-    />
+      />
+    </picture>
   </a>
 </div>
