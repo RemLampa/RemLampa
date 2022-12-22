@@ -18,7 +18,7 @@ _* "Kuya" means "older brother" in Filipino, often used as a term of endearment.
 ## Social
 
 <div align="center">
-  <a href="https://www.facebook.com/RemLampa" target="_blank">
+  <a href="https://www.facebook.com/TheKuyaDev" target="_blank">
     <img
          align="center"
          src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
@@ -32,14 +32,14 @@ _* "Kuya" means "older brother" in Filipino, often used as a term of endearment.
          alt="LinkedIn"
     />
   </a>
-  <a href="https://twitter.com/RemLampa" target="_blank">
+  <a href="https://twitter.com/TheKuyaDev" target="_blank">
     <img
          align="center"
          src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
          alt="Twitter"
     />
   </a>
-  <a href="https://www.instagram.com/RemLampa" target="_blank">
+  <a href="https://www.instagram.com/TheKuyaDev" target="_blank">
     <img
          align="center"
          src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
@@ -53,7 +53,7 @@ _* "Kuya" means "older brother" in Filipino, often used as a term of endearment.
          alt="StackOverflow"
     />
   </a>
-  <a href="https://hashnode.com/@RemLampa" target="_blank">
+  <a href="https://hashnode.com/@KuyaDev" target="_blank">
     <img
          align="center"
          src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"
