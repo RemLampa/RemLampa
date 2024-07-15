@@ -18,7 +18,7 @@ _* "Kuya" means "older brother" in Filipino, often used as a term of endearment.
 ## Social
 
 <div align="center">
-  <a href="https://www.facebook.com/KuyaDevDotCom" target="_blank">
+  <a href="https://www.facebook.com/KuyaDevPodcast" target="_blank">
     <img
          align="center"
          src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
@@ -60,7 +60,7 @@ _* "Kuya" means "older brother" in Filipino, often used as a term of endearment.
          alt="Hashnode"
     />
   </a>
-  <a href="https://www.youtube.com/@KuyaDev" target="_blank">
+  <a href="https://www.youtube.com/@KuyaDevPodcast" target="_blank">
     <img
          align="center"
          src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
