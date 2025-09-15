@@ -7,7 +7,7 @@
 
 ## Rem Lampa is Kuya* Dev
 
-Hello, I'm Rem Lampa! I am a **[podcaster](https://blog.kuya.dev/podcast)**, [web developer](https://kuya.dev), speaker, and tech community leader.
+Hello, I'm Rem Lampa! I am a **[podcaster](https://blog.kuya.dev/podcast)**, [web developer](https://kuya.dev), [TEDx speaker](https://kuya.dev/talks), [tech community leader](https://kuya.dev/tech-career-shifter-philippines), and an [advocate for responsible AI and tech practices](https://youtu.be/8mi3eyW-juU?si=TCDKzmkx14_zpOz7).
 
 Formerly an electrical engineer, I am currently the Head of Engineering at [Prosple](https://prosple.com/our-team/), specialized in ReactJS, NextJS, NodeJS, GraphQL, ExpressJS and NestJS.
 
